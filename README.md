@@ -6,6 +6,3 @@ Code for first place winner of vision&drone division
 
 ## EcoSystem
 Code for first place winner of EcoSystem division
-
-## AIChatBot
-Code for fist place winner of AIChatBot division
